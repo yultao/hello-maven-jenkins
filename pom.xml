@@ -33,7 +33,7 @@
     <repository>
       <id>internal.repo</id>
       <name>Internal repo</name>
-      <url>file:.</url>
+      <url>file:///c/Shared</url>
     </repository>
   </distributionManagement>
   <build>
