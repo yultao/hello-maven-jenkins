@@ -5,7 +5,7 @@
 
   <groupId>org.example</groupId>
   <artifactId>hello-maven-jenkins</artifactId>
-  <version>1.5</version>
+  <version>1.6-SNAPSHOT</version>
 
   <name>hello-maven-jenkins</name>
   <!-- FIXME change it to the project's website -->
@@ -27,7 +27,7 @@
   </dependencies>
   <scm>
     <developerConnection>scm:git:git@github.com:yultao/hello-maven-jenkins.git</developerConnection>
-    <tag>hello-maven-jenkins-1.5</tag>
+    <tag>HEAD</tag>
   </scm>
   <distributionManagement>
     <repository>
